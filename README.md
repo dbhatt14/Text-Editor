@@ -3,6 +3,8 @@ A Text Editor created in JAVA
 
 A desktop based text editor software.
 
+Team size : 6
+
 Running instructions -
 
 jdk supported - 1.8. Others might work but we have tested extensively for jdk 1.8 only.<br/>
